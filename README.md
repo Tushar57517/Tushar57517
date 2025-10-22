@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tushrsa" target="blank"><img src="https://img.shields.io/twitter/follow/tushrsa?logo=twitter&style=for-the-badge" alt="tushrsa" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Web Development**
+- 🌱 I’m currently learning **Backend, Assembly, C & Low-Level Stuff!**
 
 - 📝 I regularly write articles on [https://medium.com/@tushrsa](https://medium.com/@tushrsa)
 
